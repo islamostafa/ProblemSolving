@@ -1,6 +1,6 @@
 # Problem Solving Practice
 
-A collection of programming problems and their solutions, implemented in Java.
+A comprehensive collection of data structure and algorithm challenges, showcasing systematic problem-solving approaches and clean code implementation in Java. This repository demonstrates my commitment to continuous learning and technical growth while building strong analytical and coding skills.
 
 ## Structure
 Each solution is implemented as a separate class with:
