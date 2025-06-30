@@ -11,7 +11,7 @@ Each solution is implemented as a separate class with:
 ## Solutions List
 | Problem Name | Difficulty | Category | Link |
 |--------------|------------|----------|------|
-| ValidParentheses | Easy | Stack | [Solution]([[link-to-file](https://github.com/islamostafa/ProblemSolving/blob/main/ValidParenthese.java)]) |
+| ValidParentheses | Easy | Stack | [Solution]([[link-to-file](src/ValidParentheses.java) |
 <!-- Add more problems as you solve them -->
 
 ## How to Use
