@@ -12,6 +12,7 @@ Each solution is implemented as a separate class with:
 | Problem Name | Difficulty | Category | Link |
 |--------------|------------|----------|------|
 | ValidParentheses | Easy | Stack | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/ValidParenthese.java) |
+| ContainsDuplicate | Easy | Array/Hash Table | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/ContainsDuplicate.java) |
 <!-- Add more problems as you solve them -->
 
 ## How to Use
