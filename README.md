@@ -13,6 +13,7 @@ Each solution is implemented as a separate class with:
 |--------------|------------|----------|------|
 | ValidParentheses | Easy | Stack | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/ValidParenthese.java) |
 | ContainsDuplicate | Easy | Array/Hash Table | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/ContainsDuplicate.java) |
+| SingleNumber | Easy | Array/XOR | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/SingleNumber.java) |
 <!-- Add more problems as you solve them -->
 
 ## How to Use
