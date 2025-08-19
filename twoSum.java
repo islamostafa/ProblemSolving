@@ -1,6 +1,7 @@
 /**
  * Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
  * Difficulty: Medium
+ * Two Sum II- Input Array Is Sorted
  */
 
 public class twoSum {
@@ -17,6 +18,7 @@ public class twoSum {
         while (leftPointer < rightPointer) {
             int currentSum = numbers[leftPointer] + numbers[rightPointer];
             if (currentSum == target) {
+                // Converting from 0-based array index to 1-based position as per requirements
                 result[0] = leftPointer + 1;
                 result[1] = rightPointer + 1;
                 return result;
