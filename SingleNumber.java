@@ -7,7 +7,7 @@ public class SingleNumber {
 
     public int singleNumber(int[] array) {
         int result = 0;
-        for (int num : array) {statu
+        for (int num : array) {
             result ^= num;
         }
         return result;
