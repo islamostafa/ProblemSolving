@@ -15,7 +15,7 @@ Each solution is implemented as a separate class with:
 | ContainsDuplicate | Easy | Array/Hash Table | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/ContainsDuplicate.java) |
 | SingleNumber | Easy | Array/XOR | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/SingleNumber.java) |
 | isPalindrome | Easy | Two Pointers | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/isPalindrome.java) |
-| twoSum | Medium | Two Pointers | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/isPalindrome.java) |
+| twoSum | Medium | Two Pointers | [Solution]([https://github.com/islamostafa/ProblemSolving/blob/main/isPalindrome.java](https://github.com/islamostafa/ProblemSolving/blob/main/twoSum.java)) |
 | maxArea  | Medium | Two Pointers | [Solution](https://github.com/islamostafa/ProblemSolving/blob/main/isPalindrome.java) |
 <!-- Add more problems as you solve them -->
 
